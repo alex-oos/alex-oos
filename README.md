@@ -204,6 +204,15 @@ I'm ALex-oos
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 39 mins
+
+HTML       23 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   59.57 %
+Markdown   8 mins          🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.27 %
+YAML       7 mins          🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.17 %
+```
+
 <!--END_SECTION:waka-->
 ### :star2: [Projects starred by me](https://github.com/maguowei/starred)
 
