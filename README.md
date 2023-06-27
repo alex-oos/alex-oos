@@ -23,39 +23,27 @@ could be a profile README that fits you better than this one.
 
 Wish you a good-looking profile README!
 
-                                   —— ALex-oos (https://github.com/ALex-oos)
+                                   —— alex-oos (https://github.com/alex-oos)
 
 -->
 
-## Hey, ALex-oos here! :wave:
+## Hey, Alex-oos here! :wave:
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ALex-oos.vercel.app/api?username=ALex-oos&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ALex-oos.vercel.app/api?username=ALex-oos&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alex-oos.vercel.app/api?username=alex-oos&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-alex-oos.vercel.app/api?username=alex-oos&show_icons=true">
 </picture>
 
 I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
 
--   :hammer_and_pick: C++ / Qt / TypeScript / Vue / Rust / Python
+-   :hammer_and_pick: Vue / JAVA / Python
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Taking courses & doing assignments at THU
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ALex-oos/ALex-oos/discussions/new)!
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ALex-oos.gpg)
--   :heart: [Sponsor me](https://ALex-oos.moe/sponsor) via [Weixin](https://ALex-oos.moe/images/wechat-donate.png) / [Alipay](https://ALex-oos.moe/images/alipay-donate.png) / [ko-fi.com](https://ko-fi.com/ALex-oos)
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/alex-oos/alex-oos/discussions/new)!
+-   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/alex-oos.gpg)
+-   :heart: [Sponsor me](https://alex-oos.moe/sponsor) via [Weixin](https://alex-oos.moe/images/wechat-donate.png) / [Alipay](https://alex-oos.moe/images/alipay-donate.png) / [ko-fi.com](https://ko-fi.com/alex-oos)
 
----
 
-### :pencil: [Latest blog posts](https://ALex-oos.moe?utm_source=GitHubProfile)
-
-<!--START_SECTION:blog-posts-->
--   2023-06-24 [CNATDA 第三章学习笔记](https://ALex-oos.moe/post/2023/06/cnatda-3?utm_source=GitHubProfile)
--   2023-06-16 [CNATDA 第二章学习笔记](https://ALex-oos.moe/post/2023/06/cnatda-2?utm_source=GitHubProfile)
--   2023-04-29 [DDPP 第五章学习笔记](https://ALex-oos.moe/post/2023/04/ddpp-5?utm_source=GitHubProfile)
--   2023-03-04 [当你的技术栈与软工交集为空（x](https://ALex-oos.moe/post/2023/03/thuse?utm_source=GitHubProfile)
--   2023-03-02 [数字逻辑实验到底是数电实验还是数设实验（x](https://ALex-oos.moe/post/2023/03/digital-logic?utm_source=GitHubProfile)
-<!--END_SECTION:blog-posts-->
-
----
 
 ### :sparkles: [My followers](src/getTopFollowers.py)
 
