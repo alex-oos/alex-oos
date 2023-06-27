@@ -37,11 +37,6 @@ Wish you a good-looking profile README!
 I'm ALex-oos 
 
 -   :hammer_and_pick: Vue / JAVA / Python
--   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Taking courses & doing assignments at THU
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/alex-oos/alex-oos/discussions/new)!
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/alex-oos.gpg)
--   :heart: [Sponsor me](https://alex-oos.moe/sponsor) via [Weixin](https://alex-oos.moe/images/wechat-donate.png) / [Alipay](https://alex-oos.moe/images/alipay-donate.png) / [ko-fi.com](https://ko-fi.com/alex-oos)
 
 
 
@@ -209,8 +204,6 @@ I'm ALex-oos
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
 ### :star2: [Projects starred by me](https://github.com/maguowei/starred)
 
