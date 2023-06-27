@@ -34,7 +34,7 @@ Wish you a good-looking profile README!
     <img align="right" width="50%" src="https://github-readme-stats-alex-oos.vercel.app/api?username=alex-oos&show_icons=true">
 </picture>
 
-I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
+I'm ALex-oos 
 
 -   :hammer_and_pick: Vue / JAVA / Python
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
@@ -47,8 +47,6 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
 
 ### :sparkles: [My followers](src/getTopFollowers.py)
 
-<!--START_SECTION:top-followers-->
-<table>
   <tr>
     <td align="center">
       <a href="https://github.com/wizardforcel">
