@@ -208,10 +208,10 @@ I'm ALex-oos
 ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi) -->
 
 📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
 
 
----
-
+<!--END_SECTION:waka-->
 ### :star2: [Projects starred by me](https://github.com/maguowei/starred)
 
 [My Awesome Stars](AWESOME-STARS.md)

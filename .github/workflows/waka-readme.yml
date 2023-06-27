@@ -9,8 +9,9 @@ on:
 
 jobs:
   update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: alex-oos/alex-oos@main
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
