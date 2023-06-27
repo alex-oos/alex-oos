@@ -45,9 +45,9 @@ I'm ALex-oos
 
 
 
-### :sparkles: [My followers](src/getTopFollowers.py)
+<!-- ### :sparkles: [My followers](src/getTopFollowers.py) -->
 
-  <tr>
+  <!-- <tr>
     <td align="center">
       <a href="https://github.com/wizardforcel">
         <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
@@ -200,7 +200,7 @@ I'm ALex-oos
       <a href="https://github.com/ZenithalHourlyRate">Hongren (Zenithal) Zheng</a>
     </td>
   </tr>
-</table>
+</table> -->
 <!--END_SECTION:top-followers-->
 
 ---
