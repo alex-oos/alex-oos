@@ -204,20 +204,11 @@ I'm ALex-oos
 <!--END_SECTION:top-followers-->
 
 ---
+<!-- 
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi) -->
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+📊 **This Week I Spent My Time On:**
 
-<!--START_SECTION:waka-->
-
-```txt
-Markdown        39 hrs 41 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.52 %
-TeX             26 hrs 11 mins  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.71 %
-SystemVerilog   12 hrs 18 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.49 %
-i3config        2 hrs 3 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.25 %
-Shell           1 hrs 16 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.39 %
-```
-
-<!--END_SECTION:waka-->
 
 ---
 
