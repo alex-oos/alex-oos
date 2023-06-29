@@ -42,9 +42,29 @@ I'm ALex-oos
 
 ### :sparkles: [My followers](src/getTopFollowers.py)
 <!--START_SECTION:top-followers-->
-<table>
-  </tr>
-</table>
+<!--END_SECTION:top-followers-->
+
+---
+<!-- 
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi) -->
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 4 hrs 42 mins
+
+Markdown     2 hrs 17 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.58 %
+HTML         2 hrs 2 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.24 %
+JavaScript   10 mins         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.63 %
+YAML         7 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56 %
+Bash         5 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.93 %
+```
+
+<!--END_SECTION:waka-->
+
+### :sparkles: [My followers](src/getTopFollowers.py)
+<!--START_SECTION:top-followers-->
 <!--END_SECTION:top-followers-->
 
 
