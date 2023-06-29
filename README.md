@@ -38,15 +38,8 @@ I'm ALex-oos
 
 -   :hammer_and_pick: Vue / JAVA / Python
 
-
-
-### :sparkles: [My followers](src/getTopFollowers.py)
-<!--START_SECTION:top-followers-->
-<!--END_SECTION:top-followers-->
-
 ---
-<!-- 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi) -->
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
