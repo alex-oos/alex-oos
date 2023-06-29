@@ -56,6 +56,9 @@ Bash         5 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
+### :sparkles: [My followers](src/getTopFollowers.py)
+<!--START_SECTION:top-followers-->
+
 
 ### :sparkles: [My followers](src/getTopFollowers.py)
 <!--START_SECTION:top-followers-->
