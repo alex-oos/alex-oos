@@ -56,11 +56,6 @@ Python       7 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 16ef5f897cbe437c810ee75c10bb906d81a90a20
 ### :sparkles: [My followers](src/getTopFollowers.py)
 <!--START_SECTION:top-followers-->
 <table>
