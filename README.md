@@ -27,14 +27,14 @@ Wish you a good-looking profile README!
 
 -->
 
-## Hey, Alex-oos here! :wave:
+## Hey,Austin Peterson  here! :wave:
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alex-oos.vercel.app/api?username=alex-oos&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-alex-oos.vercel.app/api?username=alex-oos&show_icons=true">
 </picture>
 
-I'm ALex-oos 
+I'm Austin Peterson
 
 -   :hammer_and_pick: Vue / JAVA / Python
 
