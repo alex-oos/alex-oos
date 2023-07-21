@@ -59,14 +59,6 @@ TypeScript   0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ### :sparkles: [My followers](src/getTopFollowers.py)
 <!--START_SECTION:top-followers-->
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/peter-kimanzi">
-        <img src="https://avatars2.githubusercontent.com/u/71552773" width="100px;" alt="peter-kimanzi"/>
-      </a>
-      <br />
-      <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
