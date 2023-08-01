@@ -27,7 +27,7 @@ Wish you a good-looking profile README!
 
 -->
 
-## Hey,ANathaniel Kensington  here! :wave:
+## Hey,Nathaniel Kensington  here! :wave:
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alex-oos.vercel.app/api?username=alex-oos&theme=dark&show_icons=true">
