@@ -1,33 +1,19 @@
 <!--
+**alex-oos/alex-oos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Thank you if you like this profile README!
+Here are some ideas to get you started:
 
-BUT, please DO NOT copy this and create your profile based on it.
-
-You can use it as a reference, and copy a part of it, but DO NOT copy
-all of this and create your profile based on it.
-
-It is very common that you forget to change some information and leave
-mine in your profile. This has happened too many times.
-
-And, this profile README is auto-updated by GitHub Actions, you can read
-[the official documentation](https://docs.github.com/actions) to learn
-how to use it.
-
-Only when you know what you are copying should you paste it. So, again,
-please DO NOT copy this and create your profile based on it.
-
-What's more, you can find other awesome profile READMEs at
-https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
-could be a profile README that fits you better than this one.
-
-Wish you a good-looking profile README!
-
-                                   —— alex-oos (https://github.com/alex-oos)
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
-## Hey, ALex   here! :wave:
+## 你好，我是Alex,
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alex-oos.vercel.app/api?username=alex-oos&theme=dark&show_icons=true">
@@ -36,12 +22,15 @@ Wish you a good-looking profile README!
 
 I'm Alex
 
--   :hammer_and_pick: Vue / JAVA / Python
+-   :hammer_and_pick: Javascript / Vue  / JAVA / Python
+-   🌱 个人网站：
+-   ⚡ 技术博客：
+-   📫 个人QQ:703752767
 
 ---
 
 
-📊 **This Month I Spent My Time On:**
+#### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 
 ```txt
