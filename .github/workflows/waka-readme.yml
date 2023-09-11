@@ -18,3 +18,4 @@ jobs:
           TIME_RANGE: last_14_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          GH_TOKEN:  ${{ secrets.GH_TOKEN }}
