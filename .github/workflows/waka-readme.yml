@@ -13,9 +13,15 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          GH_TOKEN:  ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # 提交消息
+          COMMIT_MESSAGE: Update Wakapi stats
+          # 图形
           BLOCKS: "⬜🟨🟩"
-          TIME_RANGE: last_14_days
+         # 时间范围
+          TIME_RANGE: last_30_days
+          # 显示时间
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          GH_TOKEN:  ${{ secrets.GH_TOKEN }}
+      
