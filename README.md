@@ -41,7 +41,7 @@ I'm Alex
 ---
 
 
-📊 **This Week I Spent My Time On:**
+📊 **This Month I Spent My Time On:**
 <!--START_SECTION:waka-->
 
 ```txt
