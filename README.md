@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 你好，我是快乐小王子,欢迎来到我的GitHub主页 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight">](https://metrics.lecoq.io/alex-oos#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight">](https://metrics.lecoq.io/alex-oos#gh-light-mode-only)
 -   :hammer_and_pick: Javascript / Vue  / JAVA / Python /Shell
 -   🌱 个人网站：暂无
 -   ⚡ 技术博客：暂无
