@@ -19,5 +19,5 @@ jobs:
       - name: This repo has x stars y forks
         uses: alex-oos/This-repo-has-x-stars-y-forks-action@v2
         with:
-          token: ${{ secrets.STAR_FORK_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           template: "A profile README with <starCount> stars and <forkCount> forks 🌟"
