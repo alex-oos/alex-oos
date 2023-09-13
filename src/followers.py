@@ -1,19 +1,3 @@
-"""
-   Copyright 2020-2022 Yufan You <https://github.com/ouuan>
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-"""
-
 import requests
 import json
 import sys
@@ -86,9 +70,10 @@ query {{
             followerNumber = follower["followers"]["totalCount"]
             thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
             contributionCount = follower["contributionsCollection"]["contributionCalendar"]["totalContributions"]
-            if following > thirdStars * 50 + repoCount * 5 + followerNumber or contributionCount < 5:
-                print(f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following")
-                continue
+            # 不展示判断
+            # if following > thirdStars * 50 + repoCount * 5 + followerNumber or contributionCount < 5:
+            #     print(f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following")
+            #     continue
             followers.append((followerNumber, login, id, name if name else login))
             print(followers[-1])
         sys.stdout.flush()

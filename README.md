@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ---
-###  :sparkles: [热门语言](https://github.com/anuraghazra/github-readme-stats)
+###  :bar_chart: [热门语言](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
