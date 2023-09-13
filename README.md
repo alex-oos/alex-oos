@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 你好，我是Alex,
+## 你好，我是快乐小王子,
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alex-oos.vercel.app/api?username=alex-oos&theme=dark&show_icons=true">
@@ -41,7 +41,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-### :sparkles: [My followers](src/getTopFollowers.py)
+### :sparkles: [我的粉丝](https://github.com/alex-oos?tab=followers)
 <!--START_SECTION:top-followers-->
 <table>
   </tr>
