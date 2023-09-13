@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 ## 你好，我是快乐小王子,欢迎来到我的GitHub主页 👋
 
--   :hammer_and_pick: Javascript / Vue  / JAVA / Python
--   🌱 个人网站：
--   ⚡ 技术博客：
--   📫 个人QQ:703752767
+-   :hammer_and_pick: Javascript / Vue  / JAVA / Python /Shell
+-   🌱 个人网站：暂无
+-   ⚡ 技术博客：暂无
+-   📫 个人邮箱:alex-oos@qq.com
 
 ---
 
-### :bar_chart: [仓库详情](https://github.com/anuraghazra/github-readme-stats)
+### :bar_chart: [GitHub 统计](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight) 
 
 ### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
