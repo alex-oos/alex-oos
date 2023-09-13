@@ -13,12 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 你好，我是快乐小王子,
-
-<picture>
-    <source media="(prefers-color-scheme: tokyonight)" srcset="https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alex-oos&show_icons=true">
-</picture>
+## 你好，我是快乐小王子,欢迎来到我的GitHub主页 👋
 
 -   :hammer_and_pick: Javascript / Vue  / JAVA / Python
 -   🌱 个人网站：
@@ -27,10 +22,10 @@ Here are some ideas to get you started:
 
 ---
 
-### 仓库详情(https://github.com/anuraghazra/github-readme-stats)
+### :bar_chart: [仓库详情](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight) 
 
-#### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
+### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 
 ```txt
@@ -41,7 +36,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-####  热门语言(https://github.com/anuraghazra/github-readme-stats)
+###  :sparkles: [热门语言](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :sparkles: [我的粉丝](https://github.com/alex-oos?tab=followers)
