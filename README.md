@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 ###  :bar_chart: [热门语言](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos&locale=cn)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ---
+<!-- 
 ### :sparkles: [我的粉丝](https://github.com/alex-oos?tab=followers)
 <!--START_SECTION:top-followers-->
 <table>
   </tr>
 </table>
-END_SECTION:top-followers -->
+<!--END_SECTION:top-followers-->
 
 ### 交个朋友 👬🏻
 
