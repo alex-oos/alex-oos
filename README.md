@@ -50,6 +50,79 @@ Here are some ideas to get you started:
 ### :sparkles: [我的粉丝](https://github.com/alex-oos?tab=followers)
 <!--START_SECTION:top-followers-->
 <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AYIDouble">
+        <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
+      </a>
+      <br />
+      <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/peter-kimanzi">
+        <img src="https://avatars2.githubusercontent.com/u/71552773" width="100px;" alt="peter-kimanzi"/>
+      </a>
+      <br />
+      <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rolemodel01291">
+        <img src="https://avatars2.githubusercontent.com/u/84802341" width="100px;" alt="Rolemodel01291"/>
+      </a>
+      <br />
+      <a href="https://github.com/Rolemodel01291">Darren Lee</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/liangtengyu">
+        <img src="https://avatars2.githubusercontent.com/u/29878636" width="100px;" alt="liangtengyu"/>
+      </a>
+      <br />
+      <a href="https://github.com/liangtengyu">tengyu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xlz122">
+        <img src="https://avatars2.githubusercontent.com/u/39209777" width="100px;" alt="xlz122"/>
+      </a>
+      <br />
+      <a href="https://github.com/xlz122">xlz122</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fangzfang">
+        <img src="https://avatars2.githubusercontent.com/u/56439645" width="100px;" alt="fangzfang"/>
+      </a>
+      <br />
+      <a href="https://github.com/fangzfang">fangzfang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LingEr-web">
+        <img src="https://avatars2.githubusercontent.com/u/31533560" width="100px;" alt="LingEr-web"/>
+      </a>
+      <br />
+      <a href="https://github.com/LingEr-web">guojinling</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SunshineSum">
+        <img src="https://avatars2.githubusercontent.com/u/47778418" width="100px;" alt="SunshineSum"/>
+      </a>
+      <br />
+      <a href="https://github.com/SunshineSum">kaixin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhangxin-oos">
+        <img src="https://avatars2.githubusercontent.com/u/37827114" width="100px;" alt="zhangxin-oos"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhangxin-oos">张鑫</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZhaoYiiiii">
+        <img src="https://avatars2.githubusercontent.com/u/39724482" width="100px;" alt="ZhaoYiiiii"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZhaoYiiiii">ZhaoYiiiii</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
