@@ -38,6 +38,15 @@ Here are some ideas to get you started:
 
 ### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
+
+```txt
+Markdown         1 hrs 35 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   52.17 %
+JAVA             0 hrs 45 mins   🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.63 %
+YAML             0 hrs 22 mins   🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.82 %
+XML              0 hrs 10 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.51 %
+SQL              0 hrs 5 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.68 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
@@ -45,7 +54,6 @@ Here are some ideas to get you started:
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight&locale=cn">](https://metrics.lecoq.io/alex-oos#gh-light-mode-only) 
 ###  :bar_chart: [热门语言](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos&locale=cn)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 
 ### 交个朋友 👬🏻
