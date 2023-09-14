@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -   :hammer_and_pick: HTML/CSS/ Javascript / Vue /JAVA / Python / Shell
 -   :man_technologist: 成长： 待完成
--   :pencil: 博客: [https://alex-oos.github.io/](https://alex-oos.github.io/)
+-   :pencil: 博客: [https://alex-oos.github.io](https://alex-oos.github.io)
 -   📫 邮箱: alex-oos@qq.com
 
 ---
