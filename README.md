@@ -14,20 +14,24 @@ Here are some ideas to get you started:
 -->
 
 ## 你好，我是快乐小王子,欢迎来到我的GitHub主页 👋
-## 关于我
+###  :octocat:关于我
+- 🚀 我是一名程序员，专注于JAVA。
+- 💡 我热衷于JAVA领域。
+- 🌱 我正在学习Spring全家桶。
+- 💬 如果您有任何问题或建议，请随时联系我。
+- 📫 您可以通过[电子邮件](alex-oos@qq.com)与我取得联系。
+- 🌐 欢迎访问我的个人网站：[博客](https://alex-oos.github.io)，了解更多关于我的信息。
 
- 我是一个工作七年的程序员，喜欢学习研究一些技术，擅长JAVA语言，熟悉前端,后端，数据库，Linux，网络等知识，喜欢研究一些新技术，喜欢分享一些技术文章，希望能够帮助到大家，也希望大家能够一起交流学习，共同进步。
 
--   :hammer_and_pick: HTML/CSS/ Javascript / Vue /JAVA / Python / Shell
--   :man_technologist: 成长： 待完成
--   :pencil: 博客: [https://alex-oos.github.io](https://alex-oos.github.io)
--   📫 邮箱: alex-oos@qq.com
+### :hammer_and_pick: 技术栈 
+- 💻 编程语言：HTML/CSS/ Javascript / Vue /JAVA / Python / Shell
+- 🛠️ 工具和框架： Spring Boot /Spring Cloud 
 
 ---
 
 ### :sparkles: 今年的努力 ✨
 
-<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=alex-oos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/>
+<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=alex-oos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/>
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ---
@@ -53,3 +57,6 @@ Here are some ideas to get you started:
 ### 交个朋友 👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+### 我的社交媒体
+- 📝 我经常在[博客](https://alex-oos.github.io)
