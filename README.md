@@ -20,14 +20,16 @@ Here are some ideas to get you started:
  我是一个工作七年的程序员，喜欢学习研究一些技术，擅长JAVA语言，了解前端。
 
 -   :hammer_and_pick: HTML/CSS/ Javascript / Vue /JAVA / Python / Shell
--   🌱 个人网站：暂无
--   ⚡ 技术博客：暂无
--   📫 个人邮箱:alex-oos@qq.com
+-   :man_technologist: 成长：
+-   :pencil: 博客:
+-   📫 邮箱: alex-oos@qq.com
 
 ---
 
-### :bar_chart: [GitHub 统计](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight&locale=cn) 
+### :sparkles: 今年的努力 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=alex-oos&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ---
 
@@ -46,3 +48,6 @@ Here are some ideas to get you started:
 </table>
 <!--END_SECTION:top-followers-->
 
+### 交个朋友 👬🏻
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
