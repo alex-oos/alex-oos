@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ### 我的社交媒体
-- 📝 我经常在[博客](https://alex-oos.github.io)
+- 📝 我定期在[博客](https://alex-oos.github.io)上分享有关技术和其他感兴趣话题的文章。
