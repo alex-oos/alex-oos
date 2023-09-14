@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 你好，我是快乐小王子,欢迎来到我的GitHub主页 👋
 ## 关于我
 
- 我是一个工作七年的程序员，喜欢学习研究一些技术，擅长JAVA语言，了解前端。
+ 我是一个工作七年的程序员，喜欢学习研究一些技术，擅长JAVA语言，熟悉前端,后端，数据库，Linux，网络等知识，喜欢研究一些新技术，喜欢分享一些技术文章，希望能够帮助到大家，也希望大家能够一起交流学习，共同进步。
 
 -   :hammer_and_pick: HTML/CSS/ Javascript / Vue /JAVA / Python / Shell
 -   :man_technologist: 成长： 待完成
