@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 
 ## 你好，我是快乐小王子,欢迎来到我的GitHub主页 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=alex-oos&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=alex-oos&repo=convoychat" />
+</a>
+
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight">](https://metrics.lecoq.io/alex-oos#gh-light-mode-only)
 
 -   :hammer_and_pick: Javascript / Vue  / JAVA / Python /Shell
@@ -25,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 ### :bar_chart: [GitHub 统计](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight&locale=cn) 
 
 ---
 
