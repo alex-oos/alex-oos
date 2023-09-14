@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ## 你好，我是快乐小王子,欢迎来到我的GitHub主页 👋
-
+## 关于我
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight&locale=cn">](https://metrics.lecoq.io/alex-oos#gh-light-mode-only) 
+ 我是一个工作七年的程序员，喜欢学习研究一些技术，擅长JAVA语言，了解前端。
 
 -   :hammer_and_pick: HTML/CSS/ Javascript / Vue /JAVA / Python / Shell
 -   🌱 个人网站：暂无
@@ -44,3 +45,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
