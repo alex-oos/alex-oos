@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 ### :hammer_and_pick: 技术栈 
 - 💻 编程语言：HTML/CSS/ Javascript / Vue /JAVA / Python / Shell
-- 🛠️ 工具和框架： Spring Boot /Spring Cloud 
+- 🛠️ 工具和框架： Spring/Spring MVC/Spring Boot /Spring Cloud
+-🛠️  框架:FastAPI
 
 ---
 
