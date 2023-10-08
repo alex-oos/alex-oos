@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 
 ### :sparkles: 今年的努力 ✨
 
-<!--[END_SECTION:waka](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)-->
+<!-- github 统计信息， 参考仓库地址为：https://github.com/anuraghazra/github-readme-stats
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight&locale=cn">](https://metrics.lecoq.io/alex-oos#gh-light-mode-only) 
+###  :bar_chart: [热门语言](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos&locale=cn)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=alex-oos&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/>
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
@@ -52,12 +55,6 @@ SQL                        2 hrs 3 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <!--END_SECTION:waka-->
 ---
-
-<!-- github 统计信息， 参考仓库地址为：https://github.com/anuraghazra/github-readme-stats
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight&locale=cn">](https://metrics.lecoq.io/alex-oos#gh-light-mode-only) 
-###  :bar_chart: [热门语言](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos&locale=cn)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 ### 交个朋友 👬🏻
 
