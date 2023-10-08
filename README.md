@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight&locale=cn">](https://metrics.lecoq.io/alex-oos#gh-light-mode-only) 
 ###  :bar_chart: [热门语言](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos&locale=cn)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- 使用的是个人vercel来统计个人信息 -->
 
 <img align="left" height="137px" src="https://github-readme-stats-git-main-alex-oos.vercel.app/api?username=alex-oos&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/>
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oos&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+<img align="" height="137px" src="https://github-readme-stats-git-main-alex-oos.vercel.app/api/top-langs/?username=alex-oos&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ---
 
