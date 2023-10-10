@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :sparkles: 今年的努力 ✨()
+### :sparkles: 今年的努力 ✨
 
 <!-- github 统计信息， 参考仓库地址为：https://github.com/anuraghazra/github-readme-stats
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alex-oos&count_private=true&show_icons=true&theme=tokyonight&locale=cn">](https://metrics.lecoq.io/alex-oos#gh-light-mode-only) 
