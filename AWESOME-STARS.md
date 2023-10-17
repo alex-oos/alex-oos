@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C#](#c#)
 - [Dockerfile](#dockerfile)
 - [HTML](#html)
 - [Java](#java)
@@ -15,6 +16,10 @@
 - [Python](#python)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## C# # 
+
+- [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 
 ## Dockerfile 
 
