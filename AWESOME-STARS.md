@@ -41,6 +41,7 @@
 
 ## JavaScript 
 
+- [ruanyf/wechat-format](https://github.com/ruanyf/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [k1995/github-i18n-plugin](https://github.com/k1995/github-i18n-plugin) - GitHub官网汉化、中文翻译插件 :cn:
 - [chaojimiaomiao/awesome-blockchain](https://github.com/chaojimiaomiao/awesome-blockchain) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 
