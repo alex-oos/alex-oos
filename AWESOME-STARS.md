@@ -13,6 +13,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -67,6 +68,10 @@
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [xiaolai/the-self-cultivation-of-leeks](https://github.com/xiaolai/the-self-cultivation-of-leeks) - Wish you have a good life of peace…
 - [selfteaching/free-programming-books](https://github.com/selfteaching/free-programming-books) - :books: Freely available programming books
+
+## PHP 
+
+- [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy = PandoraNext. New GPTs(Gizmo) UI, All in one!
 
 ## Python 
 
