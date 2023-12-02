@@ -11,7 +11,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Kotlin](#kotlin)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -29,7 +28,6 @@
 
 ## HTML 
 
-- [qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io) - BY Blog -&gt;
 - [xiaolai/blockchainlittlebook.com](https://github.com/xiaolai/blockchainlittlebook.com) - 区块链小白书
 - [gitbasictutorial/blockchainlittlebook.com](https://github.com/gitbasictutorial/blockchainlittlebook.com) - 区块链小白书
 
@@ -39,22 +37,15 @@
 - [hansonwang99/Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
 - [codedrinker/community](https://github.com/codedrinker/community) - 开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。功能持续更新中…… 技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 
 ## JavaScript 
 
 - [ruanyf/wechat-format](https://github.com/ruanyf/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
-- [k1995/github-i18n-plugin](https://github.com/k1995/github-i18n-plugin) - GitHub官网汉化、中文翻译插件 :cn:
 - [chaojimiaomiao/awesome-blockchain](https://github.com/chaojimiaomiao/awesome-blockchain) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 
 ## Jupyter Notebook 
 
 - [shibing624/python-tutorial](https://github.com/shibing624/python-tutorial) - Python实用教程，包括：Python基础，Python高级特性，面向对象编程，多线程，数据库，数据科学，Flask，爬虫开发教程。
-- [xiaolai/reborn](https://github.com/xiaolai/reborn) - 
-
-## Kotlin 
-
-- [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ## Others 
 
@@ -62,11 +53,9 @@
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [Moonlight-zc/HTMUAKTBG-1](https://github.com/Moonlight-zc/HTMUAKTBG-1) - 如何用GitHub和芝士构建个人知识专题（how to make up a knowledge theme by gitx）
 - [Moonlight-zc/lixiaolai](https://github.com/Moonlight-zc/lixiaolai) - 文章合集
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [xiaolai/the-self-cultivation-of-leeks](https://github.com/xiaolai/the-self-cultivation-of-leeks) - Wish you have a good life of peace…
-- [selfteaching/free-programming-books](https://github.com/selfteaching/free-programming-books) - :books: Freely available programming books
 
 ## PHP 
 
