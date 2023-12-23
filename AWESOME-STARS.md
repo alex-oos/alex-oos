@@ -33,7 +33,7 @@
 
 ## Java 
 
-- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 支持脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,也实现分发pool_token，并且接入one-api，查询PandoraNext余额，且方便实现接口调用PandoraNext的API并支持接入到多种开源ChatGpt网页，针对于PandoraNext最新版本管理tokens.json和config.json的可视化网页，每天检查ses
+- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 支持脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,实现通过refresh_token或者session_token，分发pool_token，并且接入one-api，查询PandoraNext余额，且方便实现接口调用PandoraNext的API并支持接入到多种开源ChatGpt网页，针对于PandoraNext最新版本0.6.1管理to
 - [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。
 - [hansonwang99/Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
 - [codedrinker/community](https://github.com/codedrinker/community) - 开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。功能持续更新中…… 技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap
