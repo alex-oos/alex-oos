@@ -49,6 +49,7 @@
 
 ## Others 
 
+- [LiJunYi2/navicat-keygen-16V](https://github.com/LiJunYi2/navicat-keygen-16V) - Navicat16最新版本的注册机
 - [CodingGorit/Coding-with-Java](https://github.com/CodingGorit/Coding-with-Java) - Java 从入门到精通系列
 - [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
