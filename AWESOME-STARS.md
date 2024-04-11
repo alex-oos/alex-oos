@@ -64,7 +64,6 @@
 
 ## Python 
 
-- [xlz122/xlz122](https://github.com/xlz122/xlz122) - 个人主页
 - [codefuse-ai/Test-Agent](https://github.com/codefuse-ai/Test-Agent) - Agent that empowers software testing with LLMs; industrial-first in China
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
 - [ALbur/AiTools](https://github.com/ALbur/AiTools) - 
@@ -81,7 +80,6 @@
 ## TypeScript 
 
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 
 ## Vue 
