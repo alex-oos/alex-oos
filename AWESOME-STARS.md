@@ -13,7 +13,6 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
-- [PHP](#php)
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -63,10 +62,6 @@
 - [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [Moonlight-zc/lixiaolai](https://github.com/Moonlight-zc/lixiaolai) - 文章合集
 - [xiaolai/the-self-cultivation-of-leeks](https://github.com/xiaolai/the-self-cultivation-of-leeks) - Wish you have a good life of peace…
-
-## PHP 
-
-- [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
 
 ## Python 
 
