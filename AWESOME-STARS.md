@@ -50,6 +50,7 @@
 ## Jupyter Notebook 
 
 - [shibing624/python-tutorial](https://github.com/shibing624/python-tutorial) - Python实用教程，包括：Python基础，Python高级特性，面向对象编程，多线程，数据库，数据科学，Flask，爬虫开发教程。
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 
 ## Others 
 
@@ -79,7 +80,6 @@
 ## TypeScript 
 
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
-- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 
 ## Vue 
 
