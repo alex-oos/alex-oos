@@ -62,7 +62,7 @@
 
 ## Python 
 
-- [fastapi-practices/fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - 基于 FastAPI 构建的前后端分离 RBAC 权限控制系统，采用独特的伪三层架构模型设计，内置 fastapi-admin 基本实现，并作为模板库免费开源   FastAPI based on the construction of the front and back end separation of RBAC privilege control system, using a uniqu
+- [fastapi-practices/fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - 基于 FastAPI 构建的前后端分离 RBAC 权限控制系统，采用独特的伪三层架构模型设计，内置 fastapi-admin 基本实现，并作为模板库免费开源；FastAPI based on the construction of the front and back end separation of RBAC privilege control system, using a unique 
 - [codefuse-ai/Test-Agent](https://github.com/codefuse-ai/Test-Agent) - Agent that empowers software testing with LLMs; industrial-first in China
 - [ALbur/AiTools](https://github.com/ALbur/AiTools) - 
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
