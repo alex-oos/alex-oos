@@ -37,6 +37,7 @@
 
 ## Java 
 
+- [alex-oos/ai-wechat-bot](https://github.com/alex-oos/ai-wechat-bot) - 将所有AI 产品接入你的微信，打造你个人AI 助理，帮助你解决更多生活日常。
 - [Tomandy08/ApiAutoTest](https://github.com/Tomandy08/ApiAutoTest) - 基于TestNG+Rest Assured+Allure的接口自动化测试框架
 - [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。
 - [hansonwang99/Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
