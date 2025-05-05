@@ -39,7 +39,6 @@
 
 - [langchain4j/langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) - 
 - [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，最简单易用的免费二开框架,微信ipad登录（非HOOK破解桌面端）
-- [alex-oos/ai-wechat-bot](https://github.com/alex-oos/ai-wechat-bot) - 将所有AI 产品接入你的微信，打造你个人AI 助理，帮助你解决更多生活日常。
 - [Tomandy08/ApiAutoTest](https://github.com/Tomandy08/ApiAutoTest) - 基于TestNG+Rest Assured+Allure的接口自动化测试框架
 - [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。
 - [hansonwang99/Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
@@ -68,6 +67,7 @@
 
 ## Python 
 
+- [NanSsye/xxxbot-pad](https://github.com/NanSsye/xxxbot-pad) - xxxbot-PAD版本
 - [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎简单易用、🧩丰富生态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Gemini、xAI、PPIO、Ollama、LM Studio、阿里云百炼、火山方舟、SiliconFlow、Qwen、Moonshot、C
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [6vision/Apilot](https://github.com/6vision/Apilot) - 基于chatgpt_on_wechat项目的一个api调用插件
