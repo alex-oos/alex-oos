@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## 你好，我是快乐小王子,欢迎来到我的GitHub主页 👋
 ###  :octocat:关于我
-- 🚀 我是一名程序员，专注于JAVA。
-- 💡 我热衷于JAVA领域。
-- 🌱 我正在学习Spring全家桶。
+- 🚀 我是一名程序员，专注于JAVA,PYTHON
+- 💡 我热衷于JAVA和PYTHON领域。
+- 🌱 我正在学习AI在生活中的应用。
 - 💬 如果您有任何问题或建议，请随时联系我。
-- 📫 您可以通过[电子邮件](alex-oos@qq.com)与我取得联系。
+- 📫 您可以通过[电子邮件]()与我取得联系。
 - 🌐 欢迎访问我的个人网站：[博客](https://alex-oos.github.io)，了解更多关于我的信息。
 
 
