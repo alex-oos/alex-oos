@@ -34,7 +34,6 @@
 ## Java 
 
 - [langchain4j/langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) - 
-- [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，最简单易用的免费二开框架,微信ipad登录（非HOOK破解桌面端）
 - [Tomandy08/ApiAutoTest](https://github.com/Tomandy08/ApiAutoTest) - 基于TestNG+Rest Assured+Allure的接口自动化测试框架
 - [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。
 - [hansonwang99/Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
