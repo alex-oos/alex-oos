@@ -63,6 +63,8 @@
 
 ## Python 
 
+- [chzealot/dingtalk-dify-connector](https://github.com/chzealot/dingtalk-dify-connector) - 把 Dify 中的 Agent 接入到钉钉 AI 助理中
+- [zfanswer/dify-on-dingtalk](https://github.com/zfanswer/dify-on-dingtalk) - dify-on-dingtalk是一个非常轻量级的 Dify 的钉钉机器人集成方案。可以通过简单配置来对接你的Dify应用和企业内部机器人，实现企业内部机器人的群聊、私聊智能问答，且支持钉钉的AI卡片流式打字机输出效果。
 - [lkpAgent/openAgent](https://github.com/lkpAgent/openAgent) - 
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - 🤩 Easy-to-use global IM bot platform designed for LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT(GPT), De
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
