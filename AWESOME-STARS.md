@@ -63,6 +63,7 @@
 
 ## Python 
 
+- [TC999/WeChatMsg](https://github.com/TC999/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [chzealot/dingtalk-dify-connector](https://github.com/chzealot/dingtalk-dify-connector) - 把 Dify 中的 Agent 接入到钉钉 AI 助理中
 - [zfanswer/dify-on-dingtalk](https://github.com/zfanswer/dify-on-dingtalk) - dify-on-dingtalk是一个非常轻量级的 Dify 的钉钉机器人集成方案。可以通过简单配置来对接你的Dify应用和企业内部机器人，实现企业内部机器人的群聊、私聊智能问答，且支持钉钉的AI卡片流式打字机输出效果。
 - [lkpAgent/openAgent](https://github.com/lkpAgent/openAgent) - 
