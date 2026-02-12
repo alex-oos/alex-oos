@@ -13,7 +13,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
 - [Python](#python)
-- [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -76,10 +75,6 @@
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
-
-## Rust 
-
-- [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday) - 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度
 
 ## Shell 
 
