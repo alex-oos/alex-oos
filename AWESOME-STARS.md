@@ -78,6 +78,7 @@
 
 ## Shell 
 
+- [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) - ClawdBot 一键部署工具
 - [egxadev/navicat-reset](https://github.com/egxadev/navicat-reset) - 
 
 ## TypeScript 
