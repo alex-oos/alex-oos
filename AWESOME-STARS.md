@@ -64,6 +64,7 @@
 
 ## Python 
 
+- [naodeng/awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills) - Awesome QA Skills for Cursor, Claude Code,Codex and OpenCode, including function testing, api testing, test case review etc
 - [chzealot/dingtalk-dify-connector](https://github.com/chzealot/dingtalk-dify-connector) - 把 Dify 中的 Agent 接入到钉钉 AI 助理中
 - [zfanswer/dify-on-dingtalk](https://github.com/zfanswer/dify-on-dingtalk) - dify-on-dingtalk是一个非常轻量级的 Dify 的钉钉机器人集成方案。可以通过简单配置来对接你的Dify应用和企业内部机器人，实现企业内部机器人的群聊、私聊智能问答，且支持钉钉的AI卡片流式打字机输出效果。
 - [lkpAgent/openAgent](https://github.com/lkpAgent/openAgent) - 
