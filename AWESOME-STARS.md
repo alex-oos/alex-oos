@@ -66,6 +66,8 @@
 
 ## Python 
 
+- [alex-oos/alex-oos](https://github.com/alex-oos/alex-oos) - 个人主页
+- [sunny-xiabo/SKills-To-TestCase](https://github.com/sunny-xiabo/SKills-To-TestCase) - 项目级测试用例生成
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [sunny-xiabo/OpenMelon](https://github.com/sunny-xiabo/OpenMelon) - An intelligent document question-answering system based on knowledge graph + vector retrieval, with built-in AI test case generation capabilities.
 - [naodeng/awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills) - Awesome QA Skills for Cursor, Claude Code,Codex and OpenCode, including function testing, api testing, test case review etc
