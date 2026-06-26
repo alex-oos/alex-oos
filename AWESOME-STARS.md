@@ -66,6 +66,7 @@
 
 ## Python 
 
+- [DevilJie/social-auto-upload-web-ui](https://github.com/DevilJie/social-auto-upload-web-ui) - 基于social-auto-upload项目开发的web-ui，对部分功能进行了优化重构
 - [alex-oos/alex-oos](https://github.com/alex-oos/alex-oos) - 个人主页
 - [sunny-xiabo/SKills-To-TestCase](https://github.com/sunny-xiabo/SKills-To-TestCase) - 项目级测试用例生成
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
