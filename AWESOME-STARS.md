@@ -63,6 +63,8 @@
 
 ## Python 
 
+- [LifeArchiveProject/WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) - 微信 4.x 数据库解密与分析，支持实时更新、聊天记录与朋友圈导出、年度总结。
+- [ImUpXuu/SIWX](https://github.com/ImUpXuu/SIWX) - Stories in WeChat 一个开源的Windows macOS全平台 微信聊天记录导出工具 支持解密数据库与媒体 致力于做到 我的数据我做主
 - [DevilJie/QianFan-Sync](https://github.com/DevilJie/QianFan-Sync) - 基于social-auto-upload项目开发的web-ui，对部分功能进行了优化重构
 - [alex-oos/alex-oos](https://github.com/alex-oos/alex-oos) - 个人主页
 - [sunny-xiabo/SKills-To-TestCase](https://github.com/sunny-xiabo/SKills-To-TestCase) - 项目级测试用例生成
