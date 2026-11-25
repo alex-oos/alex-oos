@@ -6,7 +6,6 @@
 ## Contents
 
 - [CSS](#css)
-- [Dockerfile](#dockerfile)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -20,10 +19,6 @@
 ## CSS 
 
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
-
-## Dockerfile 
-
-- [top-bettercode/docker-wechat](https://github.com/top-bettercode/docker-wechat) - 微信 docker 镜像
 
 ## HTML 
 
